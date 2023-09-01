@@ -1,0 +1,10 @@
+cid,name,type,notnull,dflt_value,pk
+0,product_id,TEXT,0,,0
+1,product_category_name,TEXT,0,,0
+2,product_name_lenght,REAL,0,,0
+3,product_description_lenght,REAL,0,,0
+4,product_photos_qty,REAL,0,,0
+5,product_weight_g,REAL,0,,0
+6,product_length_cm,REAL,0,,0
+7,product_height_cm,REAL,0,,0
+8,product_width_cm,REAL,0,,0
